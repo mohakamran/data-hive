@@ -7,6 +7,8 @@ A stunning, modern, and responsive SaaS landing page for DataHive built with Rea
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9.3-blue?style=for-the-badge&logo=typescript)
 ![Material UI](https://img.shields.io/badge/Material%20UI-7.3.4-blue?style=for-the-badge&logo=mui)
 
+link: https://data-hive-demo.vercel.app/ 
+
 ## 🚀 Features
 
 - **Modern & Responsive Design**: Beautiful, professional landing page optimized for all devices
